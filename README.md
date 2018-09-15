@@ -1,3 +1,5 @@
-# wisdomrider
+#wisdomrider
 
-https://wisdomrider.github.io
+
+
+https://wisdomrider.github.io/deeplinking.html
